@@ -95,6 +95,22 @@ local diff = {
 				},
 			},
 		},
+		["d3005pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Speed Brake Switch - OUT",
+		},
+		["d3005pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Speed Brake Switch - IN",
+		},
 		["d3020pnilunilcd22vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -143,6 +159,11 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
 			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
 			["removed"] = {
 				[1] = {
@@ -229,6 +250,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp39u289cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Zoom in slow",
+		},
+		["dnilp40u290cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Zoom out slow",
 		},
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {

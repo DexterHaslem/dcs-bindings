@@ -37,13 +37,13 @@ local diff = {
 				},
 			},
 		},
-		["a2034cdnil"] = {
+		["a3050cd5"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_Z",
+					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "Manual Range",
+			["name"] = "A-4 Sight Bombing Altimeter Target Altitude Knob",
 		},
 		["a3051cd5"] = {
 			["added"] = {
@@ -94,14 +94,6 @@ local diff = {
 				},
 			},
 			["name"] = "Speed Brake Switch - OUT",
-		},
-		["d3005pnilunilcd2vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Speed Brake Switch - HOLD",
 		},
 		["d3005pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
@@ -156,6 +148,14 @@ local diff = {
 				},
 			},
 		},
+		["d72pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Flaps Up/Down",
+		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
 			["removed"] = {
@@ -164,13 +164,13 @@ local diff = {
 				},
 			},
 		},
-		["dnilp145u145cdnilvdnilvp1vu0"] = {
+		["d855pnilu855cdnilvd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN33",
 				},
 			},
-			["name"] = "Flaps Down",
+			["name"] = "Wheel Parking Brake Handle",
 		},
 		["dnilp146u146cdnilvdnilvp1vu0"] = {
 			["added"] = {
@@ -212,6 +212,38 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3002unilcd21vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "A-4 Sight Radar Range Sweep Rheostat - CCW/Decrease",
+		},
+		["dnilp3002unilcd21vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "A-4 Sight Radar Range Sweep Rheostat - CW/Increase",
+		},
+		["dnilp3035unilcd5vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "A-4 Sight Bombing Altimeter Target Altitude Knob - CCW/Decrease",
+		},
+		["dnilp3035unilcd5vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "A-4 Sight Bombing Altimeter Target Altitude Knob - CW/Increase",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {
@@ -243,6 +275,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp412u414cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "A-4 Sight Wing Span Adjustment Knob - Wing Span Increase",
+		},
+		["dnilp413u414cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "A-4 Sight Wing Span Adjustment Knob - Wing Span Decrease",
 		},
 	},
 }
