@@ -66,23 +66,23 @@ local diff = {
 		["d10024pnilunilcd35vdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Speed Brake Toggle",
 		},
-		["d10033pnilunilcd35vdnilvpnilvunil"] = {
+		["d10034pnilunilcd35vdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "Flaps Up/Down",
+			["name"] = "Flaps Up",
 		},
 		["d10035pnilunilcd35vdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Flaps Down",
@@ -174,6 +174,22 @@ local diff = {
 				},
 			},
 			["name"] = "T4_Press: IFF Interrogation Start/Stop",
+		},
+		["d3011pnilunilcd11vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Master Arm Switch - OFF",
+		},
+		["d3011pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Master Arm Switch - ARM",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
