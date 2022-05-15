@@ -114,6 +114,14 @@ local diff = {
 			},
 			["name"] = "Landing & Taxi Light Switch - ON",
 		},
+		["d3007pnilu3007cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Flare-Chaff Button",
+		},
 		["d3007pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
