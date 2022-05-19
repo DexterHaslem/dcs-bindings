@@ -36,6 +36,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
+				[2] = {
+					["key"] = "JOY_BTN6",
+				},
 			},
 			["name"] = "Weapon Fire Button Safety",
 			["removed"] = {
@@ -87,7 +90,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "Aileron Trimmer Switch, LEFT",
+			["name"] = "Aileron Trimmer Switch - LEFT",
 		},
 		["d94pnilu215cdnilvd1vpnilvu0"] = {
 			["added"] = {
@@ -95,7 +98,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "Aileron Trimmer Switch, RIGHT",
+			["name"] = "Aileron Trimmer Switch - RIGHT",
 		},
 		["d95pnilu215cdnilvd1vpnilvu0"] = {
 			["added"] = {
@@ -103,7 +106,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Elevator Trimmer Switch, PUSH(DESCEND)",
+			["name"] = "Elevator Trimmer Switch - PUSH(DESCEND)",
 		},
 		["d96pnilu215cdnilvd1vpnilvu0"] = {
 			["added"] = {
@@ -111,7 +114,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Elevator Trimmer Switch, PULL(CLIMB)",
+			["name"] = "Elevator Trimmer Switch - PULL(CLIMB)",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

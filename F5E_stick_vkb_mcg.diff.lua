@@ -29,6 +29,14 @@ local diff = {
 			},
 			["name"] = "Zoom View",
 		},
+		["a2101cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "Wheel Brake",
+		},
 	},
 	["keyDiffs"] = {
 		["d139pnilu139cdnilvd-1vpnilvu0"] = {

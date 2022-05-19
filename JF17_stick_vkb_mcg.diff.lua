@@ -62,9 +62,9 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.2,
+							[1] = 0,
 						},
-						["deadzone"] = 0.09,
+						["deadzone"] = 0.01,
 						["invert"] = false,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -80,9 +80,9 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.2,
+							[1] = 0,
 						},
-						["deadzone"] = 0.08,
+						["deadzone"] = 0.01,
 						["invert"] = true,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -289,6 +289,38 @@ local diff = {
 				},
 			},
 			["name"] = "S6_Right: Trim Roll Right",
+		},
+		["dnilp10077u10079cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV2_U",
+				},
+			},
+			["name"] = "T5_Up: TDC Up",
+		},
+		["dnilp10078u10079cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV2_D",
+				},
+			},
+			["name"] = "T5_Down: TDC Down",
+		},
+		["dnilp10080u10082cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV2_L",
+				},
+			},
+			["name"] = "T5_Left: TDC Left",
+		},
+		["dnilp10081u10082cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV2_R",
+				},
+			},
+			["name"] = "T5_Right: TDC Right",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
