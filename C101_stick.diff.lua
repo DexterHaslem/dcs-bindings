@@ -31,6 +31,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3202pnilu3202cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Landing gear warning mute",
+		},
 		["d3380pnilu3380cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -57,6 +65,14 @@ local diff = {
 				},
 			},
 			["name"] = "Stores Release Button",
+		},
+		["d3928pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Stores Release Guard - OPEN",
 		},
 		["d3930pnilu3930cd1vd1vpnilvu0"] = {
 			["added"] = {

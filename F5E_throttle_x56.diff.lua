@@ -154,6 +154,22 @@ local diff = {
 			},
 			["name"] = "AN/APQ-159 Radar Range Selector - CW/Increase",
 		},
+		["d3019pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Flap Switch - Step Aft",
+		},
+		["d3019pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Flap Switch - Step Fwd",
+		},
 		["d313pnilu311cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -199,9 +215,6 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN24",
 				},
-				[2] = {
-					["key"] = "JOY_BTN25",
-				},
 			},
 			["name"] = "AN/APQ-159 Radar Elevation Antenna Tilt Control - CW/Up",
 		},
@@ -209,9 +222,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
-				},
-				[2] = {
-					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "AN/APQ-159 Radar Elevation Antenna Tilt Control - CCW/Down",

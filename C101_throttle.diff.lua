@@ -87,6 +87,14 @@ local diff = {
 			},
 			["name"] = "Prev Flap Detent",
 		},
+		["d8014pnilunilcd1vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Throttle Idle Detent - Idle/Stop (toggle button)",
+		},
 		["d8029pnilunilcd1vdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

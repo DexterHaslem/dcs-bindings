@@ -127,6 +127,38 @@ local diff = {
 			},
 			["name"] = "Throttle Finger Lift (Both) - UP/DOWN",
 		},
+		["d311pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Throttle (Left) - IDLE",
+		},
+		["d312pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Throttle (Right) - IDLE",
+		},
+		["d431pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Landing Gear Control Handle - DOWN",
+		},
+		["d68pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Landing Gear Control Handle - UP/DOWN",
+		},
 	},
 }
 return diff

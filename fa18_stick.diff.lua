@@ -70,6 +70,16 @@ local diff = {
 		["a2101cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_SLIDER2",
 				},
 			},
@@ -173,10 +183,42 @@ local diff = {
 			},
 			["name"] = "Autopilot/Nosewheel Steering Disengage (Paddle) Switch",
 		},
+		["d3019pnilu3019cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV2_U",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Up",
+		},
+		["d3020pnilu3020cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV2_D",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Down",
+		},
+		["d3021pnilu3021cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV2_L",
+				},
+			},
+			["name"] = "Throttle Designator Controller - LEFT",
+		},
+		["d3022pnilu3022cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV2_R",
+				},
+			},
+			["name"] = "Throttle Designator Controller - RIGHT",
+		},
 		["d3023pnilu3023cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN55",
 				},
 			},
 			["name"] = "Throttle Designator Controller - DEPRESS",

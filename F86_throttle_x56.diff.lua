@@ -63,14 +63,6 @@ local diff = {
 				},
 			},
 		},
-		["d1731pnilu1731cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Microphone Button (VOIP)",
-		},
 		["d3002pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -130,7 +122,7 @@ local diff = {
 		["d439pnilu440cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",
@@ -148,14 +140,6 @@ local diff = {
 				},
 			},
 		},
-		["d72pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Flaps Up/Down",
-		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
 			["removed"] = {
@@ -171,6 +155,14 @@ local diff = {
 				},
 			},
 			["name"] = "Wheel Parking Brake Handle",
+		},
+		["dnilp145u145cdnilvdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Flaps Down",
 		},
 		["dnilp146u146cdnilvdnilvp1vu0"] = {
 			["added"] = {
