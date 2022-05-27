@@ -250,6 +250,14 @@ local diff = {
 			},
 			["name"] = "AA/AG Switch - A/A",
 		},
+		["d3073pnilu3073cd34vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Throttle Uncage: Stop To Idle",
+		},
 		["d3074pnilu3073cd34vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -257,6 +265,14 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle - Cage/Uncage",
+		},
+		["d3074pnilu3074cd34vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Throttle Cage: Idle To Stop",
 		},
 		["d3267pnilu3267cd47vd1vpnilvu0"] = {
 			["added"] = {
