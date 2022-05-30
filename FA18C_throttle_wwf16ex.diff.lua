@@ -87,21 +87,13 @@ local diff = {
 			},
 			["name"] = "Emergency Jettison Button",
 		},
-		["d3005pnilunilcd5vd-1vpnilvunil"] = {
+		["d3006pnilu3006cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN75",
 				},
 			},
-			["name"] = "Emergency/Parking Brake Handle - PULL",
-		},
-		["d3005pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN76",
-				},
-			},
-			["name"] = "Emergency/Parking Brake Handle - STOW",
+			["name"] = "Emergency/Parking Brake Handle - CCW",
 		},
 		["d3007pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
@@ -126,6 +118,14 @@ local diff = {
 				},
 			},
 			["name"] = "FLAP Switch - AUTO",
+		},
+		["d3007pnilunilcd5vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "Emergency/Parking Brake Handle - CW",
 		},
 		["d3009pnilunilcd5vd0vpnilvunil"] = {
 			["added"] = {

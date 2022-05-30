@@ -103,22 +103,6 @@ local diff = {
 				},
 			},
 		},
-		["d3005pnilunilcd2vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Speed Brake Switch - OUT",
-		},
-		["d3005pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Speed Brake Switch - IN",
-		},
 		["d3020pnilunilcd22vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

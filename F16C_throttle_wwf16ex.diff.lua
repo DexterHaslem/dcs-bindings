@@ -63,6 +63,38 @@ local diff = {
 			},
 			["name"] = "ICP Master Mode Button - A-G",
 		},
+		["d3024pnilu3024cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Transmit Switch - VHF (call radio menu)",
+		},
+		["d3025pnilu3025cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Transmit Switch - UHF (call radio menu)",
+		},
+		["d3026pnilu3026cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Transmit Switch - IFF OUT",
+		},
+		["d3027pnilu3027cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Transmit Switch - IFF IN",
+		},
 		["d3029pnilu3029cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -209,6 +241,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3002unilcd30vdnilvp-0.3vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN83",
+				},
+			},
+			["name"] = "HMCS SYMBOLOGY INT Knob - CCW/Decrease",
+		},
+		["dnilp3002unilcd30vdnilvp0.3vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN84",
+				},
+			},
+			["name"] = "HMCS SYMBOLOGY INT Knob - CW/Increase",
 		},
 		["dnilp3040unilcd16vdnilvp1vunil"] = {
 			["added"] = {

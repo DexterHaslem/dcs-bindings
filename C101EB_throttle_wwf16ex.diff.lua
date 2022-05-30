@@ -63,6 +63,22 @@ local diff = {
 			},
 			["name"] = "Communication menu",
 		},
+		["d3118pnilunilcd1vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Throttle Idle Detent - IDLE",
+		},
+		["d3118pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Throttle Idle Detent - STOP",
+		},
 		["d3202pnilu3202cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -70,46 +86,6 @@ local diff = {
 				},
 			},
 			["name"] = "Landing gear warning mute",
-		},
-		["d3256pnilunilcd1vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN94",
-				},
-			},
-			["name"] = "Master arm - OFF",
-		},
-		["d3256pnilunilcd1vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN93",
-				},
-			},
-			["name"] = "Master arm - ON",
-		},
-		["d3268pnilu3268cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN96",
-				},
-			},
-			["name"] = "Emergency Jettison Button",
-		},
-		["d3700pnilu3700cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "MPR Switch",
-		},
-		["d3701pnilu3701cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "MPR Switch (Rear Cockpit)",
 		},
 		["d8006pnilunilcd1vdnilvpnilvunil"] = {
 			["added"] = {

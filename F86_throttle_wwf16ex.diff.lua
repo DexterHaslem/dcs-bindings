@@ -71,6 +71,14 @@ local diff = {
 			},
 			["name"] = "Battery-Starter Switch - BATTERY",
 		},
+		["d3002pnilunilcd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN80",
+				},
+			},
+			["name"] = "Throttle - Start Engine",
+		},
 		["d3002pnilunilcd5vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -95,6 +103,14 @@ local diff = {
 			},
 			["name"] = "Gun-Missile Selector Switch - MISSILE",
 		},
+		["d3003pnilunilcd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Throttle - Stop Engine",
+		},
 		["d3003pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -111,6 +127,30 @@ local diff = {
 			},
 			["name"] = "Flight Control Switch - ALTERNATE ON",
 		},
+		["d3005pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Speed Brake Switch - OUT",
+		},
+		["d3005pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Speed Brake Switch - HOLD",
+		},
+		["d3005pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Speed Brake Switch - IN",
+		},
 		["d3017pnilu3017cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -126,14 +166,6 @@ local diff = {
 				},
 			},
 			["name"] = "Bomb-Rocket-Tank Jettison Button",
-		},
-		["d3017pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN92",
-				},
-			},
-			["name"] = "A-4 Sight Mechanical Caging Lever - ON/OFF",
 		},
 		["d3020pnilunilcd22vd0vpnilvunil"] = {
 			["added"] = {

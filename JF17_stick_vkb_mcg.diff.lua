@@ -223,33 +223,6 @@ local diff = {
 			},
 			["name"] = "S8: Change Weapons",
 		},
-		["d10062pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "T1_Forward: BVR - INTC Mode",
-		},
-		["d10063pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-				[2] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "T1_Center: NAV - Navigation Mode",
-		},
-		["d10064pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "T1_Backward: AG - Air-To-Ground Mode",
-		},
 		["d10083pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -385,6 +358,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp39u289cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Zoom in slow",
+		},
+		["dnilp40u290cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Zoom out slow",
 		},
 	},
 }

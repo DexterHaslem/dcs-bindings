@@ -146,7 +146,7 @@ local diff = {
 		["d3126pnilu3126cd57vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN23",
 				},
 			},
 			["name"] = "CAGE-SEAM button",

@@ -154,7 +154,7 @@ local diff = {
 		["d72pnilu72cdnilvd2vpnilvu5"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN79",
+					["key"] = "JOY_BTN78",
 				},
 			},
 			["name"] = "Flaps TakeOff Position",
@@ -162,7 +162,7 @@ local diff = {
 		["d72pnilu72cdnilvd3vpnilvu6"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN78",
+					["key"] = "JOY_BTN79",
 				},
 			},
 			["name"] = "Flaps Landing Position",
