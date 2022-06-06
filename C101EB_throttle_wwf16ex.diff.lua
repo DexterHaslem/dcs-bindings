@@ -66,7 +66,7 @@ local diff = {
 		["d3118pnilunilcd1vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN31",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "Throttle Idle Detent - IDLE",
@@ -74,7 +74,7 @@ local diff = {
 		["d3118pnilunilcd1vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN30",
 				},
 			},
 			["name"] = "Throttle Idle Detent - STOP",
@@ -109,7 +109,7 @@ local diff = {
 					["key"] = "JOY_BTN75",
 				},
 			},
-			["name"] = "Parking brake",
+			["name"] = "Parking Brake",
 		},
 		["d8029pnilunilcd1vdnilvpnilvunil"] = {
 			["added"] = {

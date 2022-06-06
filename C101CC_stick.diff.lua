@@ -90,6 +90,22 @@ local diff = {
 			},
 			["name"] = "Trigger Safety Catch - UNLOCK",
 		},
+		["d8006pnilunilcd1vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Next Flap Detent",
+		},
+		["d8007pnilunilcd1vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Prev Flap Detent",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

@@ -111,6 +111,14 @@ local diff = {
 			},
 			["name"] = "Emergency All Jettison Button",
 		},
+		["d3002pnilu3002cd19vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "RWR Indicator Control SEARCH Button",
+		},
 		["d3002pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -294,6 +302,14 @@ local diff = {
 				},
 			},
 			["name"] = "Landing Gear Lever - LG DOWN",
+		},
+		["d76pnilu76cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Drag Chute T-Handle - PULL/PUSH",
 		},
 		["dnilp3017unilcd17vdnilvp-0.3vunil"] = {
 			["added"] = {

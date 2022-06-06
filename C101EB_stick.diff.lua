@@ -31,6 +31,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Zoom normal",
+		},
+		["d3202pnilu3202cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Landing gear warning mute",
+		},
 		["d3926pnilu3926cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -109,7 +125,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "trim: Left wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 		},
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -117,7 +133,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "trim: Right wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 		},
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -125,7 +141,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 		},
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -133,7 +149,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 		},
 	},
 }

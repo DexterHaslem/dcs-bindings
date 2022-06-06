@@ -63,6 +63,22 @@ local diff = {
 			},
 			["name"] = "Communication menu",
 		},
+		["d3118pnilunilcd1vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Throttle Idle Detent - IDLE",
+		},
+		["d3118pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "Throttle Idle Detent - STOP",
+		},
 		["d3202pnilu3202cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

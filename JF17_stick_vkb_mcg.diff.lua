@@ -231,6 +231,14 @@ local diff = {
 			},
 			["name"] = "T5_Press: Lock Target",
 		},
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Zoom normal",
+		},
 		["dnilp10056unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -362,7 +370,7 @@ local diff = {
 		["dnilp39u289cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "Zoom in slow",
@@ -370,7 +378,7 @@ local diff = {
 		["dnilp40u290cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "Zoom out slow",

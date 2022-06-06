@@ -71,6 +71,14 @@ local diff = {
 			},
 			["name"] = "AN/APQ-159 Radar TDC Button - Down",
 		},
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Zoom normal",
+		},
 		["d3004pnilu3004cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

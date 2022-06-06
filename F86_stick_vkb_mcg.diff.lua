@@ -103,6 +103,14 @@ local diff = {
 				},
 			},
 		},
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Zoom normal",
+		},
 		["d3020pnilunilcd22vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
