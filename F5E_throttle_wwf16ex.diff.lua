@@ -306,7 +306,7 @@ local diff = {
 		["d76pnilu76cdnilvd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Drag Chute T-Handle - PULL/PUSH",

@@ -55,14 +55,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1591pnilu1592cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "COMM Push to talk (call radio menu)",
-		},
 		["d3002pnilu3002cd5vd0.1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -111,6 +103,17 @@ local diff = {
 			},
 			["name"] = "Landing Gear Up",
 		},
+		["d3008pnilu3008cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN86",
+				},
+				[2] = {
+					["key"] = "JOY_BTN92",
+				},
+			},
+			["name"] = "Starter",
+		},
 		["d3010pnilunilcd5vd0.2vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -118,6 +121,33 @@ local diff = {
 				},
 			},
 			["name"] = "Radiator oil Auto",
+		},
+		["d3011pnilu3011cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+				[2] = {
+					["key"] = "JOY_BTN80",
+				},
+			},
+			["name"] = "Primer",
+		},
+		["d961pnilu962cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Wheel brake Left",
+		},
+		["d963pnilu964cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Wheel brake Right",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

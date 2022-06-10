@@ -109,7 +109,7 @@ local diff = {
 					["key"] = "JOY_BTN75",
 				},
 			},
-			["name"] = "Parking Brake",
+			["name"] = "Parking brake",
 		},
 		["d8029pnilunilcd1vdnilvpnilvunil"] = {
 			["added"] = {

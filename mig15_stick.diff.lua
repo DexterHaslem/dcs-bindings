@@ -77,6 +77,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Zoom normal",
+		},
 		["d3001pnilu3001cd4vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -94,6 +102,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
+				},
+				[2] = {
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "Guns Safety Cover",

@@ -31,6 +31,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Zoom normal",
+		},
 		["d3022pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

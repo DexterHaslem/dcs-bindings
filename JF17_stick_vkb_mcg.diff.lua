@@ -7,7 +7,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0.05,
 						},
-						["deadzone"] = 0.02,
+						["deadzone"] = 0.01,
 						["invert"] = false,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -25,7 +25,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0.05,
 						},
-						["deadzone"] = 0.02,
+						["deadzone"] = 0.01,
 						["invert"] = false,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -39,6 +39,16 @@ local diff = {
 		["a2003cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.1,
+						},
+						["deadzone"] = 0.01,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Z",
 				},
 			},

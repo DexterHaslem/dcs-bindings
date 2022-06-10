@@ -31,6 +31,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Zoom normal",
+		},
 		["d3202pnilu3202cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -38,25 +46,6 @@ local diff = {
 				},
 			},
 			["name"] = "Landing gear warning mute",
-		},
-		["d3380pnilu3380cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Stick Go Around Button",
-		},
-		["d3381pnilu3381cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Stick Touch Control System Button",
 		},
 		["d3926pnilu3926cd1vd1vpnilvu0"] = {
 			["added"] = {
@@ -69,7 +58,7 @@ local diff = {
 		["d3928pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "Stores Release Guard - OPEN",
@@ -89,22 +78,6 @@ local diff = {
 				},
 			},
 			["name"] = "Trigger Safety Catch - UNLOCK",
-		},
-		["d8006pnilunilcd1vdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Next Flap Detent",
-		},
-		["d8007pnilunilcd1vdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Prev Flap Detent",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
@@ -153,22 +126,6 @@ local diff = {
 				},
 			},
 			["name"] = "Zoom out slow",
-		},
-		["dnilp412u414cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Range Selector Next",
-		},
-		["dnilp413u414cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Range Selector Previous",
 		},
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {

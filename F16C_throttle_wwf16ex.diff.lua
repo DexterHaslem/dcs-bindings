@@ -47,6 +47,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3010pnilu3010cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "ANTI-SKID Switch - PARKING BRAKE",
+		},
+		["d3010pnilunilcd7vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "ANTI-SKID Switch - OFF",
+		},
 		["d3018pnilu3018cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

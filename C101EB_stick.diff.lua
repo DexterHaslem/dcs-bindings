@@ -55,6 +55,14 @@ local diff = {
 			},
 			["name"] = "Stores Release Button (White Smoke)",
 		},
+		["d3928pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Stores Release Guard - OPEN",
+		},
 		["d3930pnilu3930cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -125,7 +133,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "Trim Hat - ROLL LEFT",
+			["name"] = "trim: Left wing Down",
 		},
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -133,7 +141,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "Trim Hat - ROLL RIGHT",
+			["name"] = "trim: Right wing Down",
 		},
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -141,7 +149,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Trim Hat - NOSE UP",
+			["name"] = "trim: Nose Up",
 		},
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -149,7 +157,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Trim Hat - NOSE DOWN",
+			["name"] = "trim: Nose Down",
 		},
 	},
 }

@@ -37,6 +37,24 @@ local diff = {
 				},
 			},
 		},
+		["a3006cd11"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "Engine Stop Lever",
+		},
 		["a3019cd30"] = {
 			["added"] = {
 				[1] = {

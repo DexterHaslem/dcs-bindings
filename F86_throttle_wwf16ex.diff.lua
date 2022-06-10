@@ -37,6 +37,22 @@ local diff = {
 				},
 			},
 		},
+		["a3049cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "A-4 Sight Bombing Altimeter Index Altitude Handle",
+		},
+		["a3050cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "A-4 Sight Bombing Altimeter Target Altitude Knob",
+		},
 	},
 	["keyDiffs"] = {
 		["d100pnilu1627cdnilvdnilvpnilvunil"] = {

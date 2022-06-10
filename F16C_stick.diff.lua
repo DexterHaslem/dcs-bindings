@@ -77,6 +77,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Zoom normal",
+		},
 		["d3001pnilu3001cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -221,6 +229,14 @@ local diff = {
 			},
 			["name"] = "UNCAGE Switch",
 		},
+		["d3032pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Autopilot PITCH Switch - A/P OFF",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -288,7 +304,7 @@ local diff = {
 		["dnilp39u289cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "Zoom in slow",
@@ -296,7 +312,7 @@ local diff = {
 		["dnilp40u290cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "Zoom out slow",
