@@ -233,6 +233,14 @@ local diff = {
 			},
 			["name"] = "S8: Change Weapons",
 		},
+		["d10068pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "T2_Backward: Countermeasures Dispense",
+		},
 		["d10083pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -248,6 +256,14 @@ local diff = {
 				},
 			},
 			["name"] = "Zoom normal",
+		},
+		["d3074pnilu3073cd34vd1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Throttle - Cage/Uncage",
 		},
 		["dnilp10056unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

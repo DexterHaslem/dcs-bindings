@@ -47,6 +47,30 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3002pnilunilcd19vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN95",
+				},
+			},
+			["name"] = "MASTER ARM Switch - SIMULATE",
+		},
+		["d3002pnilunilcd19vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN94",
+				},
+			},
+			["name"] = "MASTER ARM Switch - OFF",
+		},
+		["d3002pnilunilcd19vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN93",
+				},
+			},
+			["name"] = "MASTER ARM Switch - MASTER ARM",
+		},
 		["d3010pnilu3010cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

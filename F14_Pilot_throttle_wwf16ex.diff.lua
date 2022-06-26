@@ -234,6 +234,22 @@ local diff = {
 			},
 			["name"] = "Mic Button UHF2 (ARC-182)",
 		},
+		["d3653pnilunilcd12vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN88",
+				},
+			},
+			["name"] = "Exterior Lights Master Switch OFF",
+		},
+		["d3653pnilunilcd12vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN87",
+				},
+			},
+			["name"] = "Exterior Lights Master Switch ON",
+		},
 		["dnilp3020u3020cd18vdnilvp-1vu0"] = {
 			["added"] = {
 				[1] = {

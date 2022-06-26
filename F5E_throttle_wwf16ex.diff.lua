@@ -95,6 +95,22 @@ local diff = {
 			},
 			["name"] = "AN/APQ-159 Radar TDC Button - Down",
 		},
+		["d1731pnilu1731cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "UHF Radio Microphone Button (VOIP)",
+		},
+		["d3001pnilu3001cd24vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "UHF Radio Microphone Button (call radio menu)",
+		},
 		["d3001pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
